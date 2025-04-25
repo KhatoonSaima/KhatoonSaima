@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Azure Machine learning**
 
-- 👯 I’m looking to collaborate on ****
+<!-- - 👯 I’m looking to collaborate on **** -->
 
 - 📫 How to reach me **sksaima9097@gmail.com**
 
@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhatoonSaima&show_icons=true&locale=en&layout=compact" alt="KhatoonSaima" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frankal&show_icons=true&locale=en" alt="frankal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KhatoonSaima&show_icons=true&locale=en" alt="KhatoonSaima" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frankal&" alt="frankal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhatoonSaima&" alt="KhatoonSaima" /></p>
