@@ -1,21 +1,8 @@
-<!--
-**KhatoonSaima/KhatoonSaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hi 👋, I'm Saima Khatoon</h1>
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <!--<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />-->
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"  />
 </div>
 
 <h3 align="center">A passionate Software Developer from India</h3>
@@ -36,7 +23,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin username" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saima-khatoon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin username" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackflow username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackflow username" height="30" width="40" /></a>
 <a href="https://kaggle.com/kaggle username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle username" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hackerrank username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank username" height="30" width="40" /></a>
@@ -50,9 +37,10 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KhatoonSaima&show_icons=true&locale=en" alt="KhatoonSaima" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhatoonSaima&" alt="KhatoonSaima" /></p>
-
-
+<h3 align="left">Let's Catch:</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"  />
+</div>
 
 
 
