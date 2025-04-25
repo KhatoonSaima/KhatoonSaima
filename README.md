@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Saima Khatoon</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KhatoonSaima&label=Profile%20views&color=0e75b6&style=flat" alt="KhatoonSaima" /> </p>
@@ -47,3 +51,8 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KhatoonSaima&show_icons=true&locale=en" alt="KhatoonSaima" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhatoonSaima&" alt="KhatoonSaima" /></p>
+
+
+
+
+
