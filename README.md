@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/saima-khatoon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin username" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackflow username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackflow username" height="30" width="40" /></a>
 <a href="https://kaggle.com/kaggle username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle username" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hackerrank username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank username" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sksaim786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank username" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leetcode username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode username" height="30" width="40" /></a>
 </p>
 
