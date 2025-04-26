@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sksaima9097@gmail.com**
 
-- ⚡ Fun fact **I am very detail oriented person**
+- ⚡ Fun fact: **Attention to detail is my secret weapon in coding and design!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
