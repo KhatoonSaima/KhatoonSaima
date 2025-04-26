@@ -36,12 +36,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhatoonSaima&show_icons=true&locale=en&layout=compact" alt="KhatoonSaima" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KhatoonSaima&show_icons=true&locale=en" alt="KhatoonSaima" /></p>
-
-<h3 align="left">Let's Catch:</h3>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"  />
-</div>
-
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhatoonSaima/KhatoonSaima/output/pacman-contribution-graph-dark.svg">
@@ -49,11 +44,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KhatoonSaima/KhatoonSaima/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 
 
