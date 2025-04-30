@@ -39,7 +39,6 @@
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KhatoonSaima&show_icons=true&locale=en" alt="KhatoonSaima" /></p>-->
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhatoonSaima&theme=default&show_icons=true&hide_border=true&layout=compact" alt="KhatoonSaima's GitHub Stats" />-->
-<br>
 <p><img src="https://streak-stats.demolab.com?user=KhatoonSaima&theme=default&hide_border=true" alt="KhatoonSaima's GitHub Stats" /></p>
 <br>
 
