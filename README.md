@@ -1,13 +1,16 @@
 
 <img src="profileImage.png"  />
 
-<h1 align="center">Hi 👋, I'm Saima Khatoon</h1>
-<div align="center">
-  <!--<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />-->
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"  />
-</div>
 
+<!--<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif"  />
+</div> -->
+
+<!--
+<h1 align="center">Hi 👋, I'm Saima Khatoon</h1>
 <h3 align="center">A passionate Software Developer from Canada</h3>
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KhatoonSaima&label=Profile%20views&color=0e75b6&style=flat" alt="KhatoonSaima" /> </p>
 
